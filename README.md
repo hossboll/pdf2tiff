@@ -11,7 +11,6 @@ Install the required dependencies with:
 pip install -r requirements.txt
 ```
 ### Usage
-To use this tool, follow these simple steps:
 
 Run the script with the command:
 ```
